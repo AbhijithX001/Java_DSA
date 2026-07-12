@@ -9,7 +9,7 @@ public class Q1 {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-        sc.nextLine(); // consume newline
+        sc.nextLine(); // consume newline,
 
         Employee[] arr = new Employee[n];
 
